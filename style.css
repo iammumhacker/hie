@@ -242,6 +242,14 @@ footer {
 		font-size: 16px;
 	}
 
+	.container_highbar {
+		height: 100%;
+	}
+
+	.high_navbar {
+		height: 100%;
+	}
+
 	#high1 {
 		font-size: 18px;
 		margin: 10px 0 5px 5px;
@@ -283,10 +291,6 @@ footer {
 		width: 320px;
 	}
 
-	.container_contacts_fixed {
-		right: none;
-		left: 1px;
-	}
 
 	.block_footer {
 		font-size: 12px;
@@ -332,8 +336,16 @@ footer {
 	}
 
 	footer {
-		height: 100px;
+		height: 100%;
 		margin-top: 70px;
+	}
+
+	.block_footer {
+		height: 100%;
+	}
+
+	.block_footer p {
+		margin: 0 5px 10px 5px;
 	}
 
 }
