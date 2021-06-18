@@ -242,6 +242,10 @@ footer {
 		font-size: 16px;
 	}
 
+	.container_contacts_fixed {
+		top: 260px;
+	}
+
 	.container_highbar {
 		height: 100%;
 	}
