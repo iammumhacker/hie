@@ -1,0 +1,95 @@
+.content_news {
+	width: 1450px;
+	height: 100%;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+
+.photoNews {
+	width: 60%;
+	height: 350px;
+	ackground-repeat: no-repeat;
+	border-radius: 10px 10px 0 0;
+}
+
+.photo_news1 {
+	background: url('images/news/news_1.png');
+}
+
+.photo_news2 {
+	background: url('images/news/news_2.png');
+}
+
+.photo_news3 {
+	background: url('images/news/news_3.png');
+}
+
+.photo_news4 {
+	background: url('images/news/news_4.png');
+}
+
+.photo_news5 {
+	background: url('images/news/news_5.png');
+}
+
+.photo_news6 {
+	background: url('images/news/news_6.png');
+}
+
+.photo_news7 {
+	background: url('images/news/news_7.png');
+}
+
+.photo_news7 {
+	background: url('images/news/news_7.png');
+}
+
+.photo_news8 {
+	background: url('images/news/news_8.png');
+}
+
+.photo_news9 {
+	background: url('images/news/news_9.png');
+}
+
+
+.about_news {
+	width: 90%;
+	font-size: 16px;
+}
+
+
+.date_span {
+	color:#565252;
+}
+
+footer {
+	margin-top: 25px;
+}
+
+@media all and (max-width:480px ) and (min-width:320px) {
+	 .content_news {
+	 	width: 100%;
+	 }
+
+	 .photoNews {
+	 	width: 90%;
+	 	margin-left: 10px;
+	 }
+
+	 .zagol_news {
+	 	margin-left: 10px;
+	 }
+
+	 .about_news {
+	 	margin-left: 10px;
+	 }
+
+	 .date {
+	 	margin-left: 10px;
+	 }
+
+	 .photoNews {
+	 	border-radius: 10px;
+	 }
+}
