@@ -1,3 +1,4 @@
+
 .container_contacts {
 	width: 90%;
 	height: 100%;
@@ -181,9 +182,9 @@
 		width: 320px;
 	}
 
-	.Facebook_con a {
+	.facebook_link a {
 		font-size: 12px;
-		width: 320px;
+		width: 260px;
 	}
 
 	.block_phone {

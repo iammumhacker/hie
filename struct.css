@@ -1,0 +1,466 @@
+.container_structura {
+	width: 90%;
+	margin: 29px 73px;
+}
+
+.head_struct H2 {
+	color: rgba(0,0,0,0.2);
+	font-size: 33px;
+}
+
+.h2_struct {
+	color: #78B661;
+	font-weight: 900;
+	margin: 0;
+}
+
+
+.blocks_struct {
+	display: flex;
+	justify-content: space-between;
+}
+
+.block_struct1 {
+	margin-top: 69px;
+	width: 100%;
+}
+
+.block_struct1 .sub_struct1 {
+	width: 723px;
+	height: 499px;
+}
+
+.block_struct1 .sub_struct1 ul li:first-child {
+	margin-top: 45px;
+}
+
+.block_struct1 .sub_struct1 ul li {
+	margin-top: 30px;
+}
+
+.block_struct1 .sub_struct2 {
+	width: 562px;
+	height: 734px;
+}
+
+.block_struct1 .img_block1 {
+	width: 562px;
+	height: 356px;
+	background: url('images/struct/struct_1.png');
+}
+
+.block_struct1 .img_block2 {
+	width: 562px;
+	height: 356px;
+	background: url('images/struct/struct_2.png');
+	margin-top: 23px;
+}
+
+.block_struct2 {
+	width: 100%;
+	height: 353px;
+	margin-top: 49px;
+	justify-content: normal;
+}
+
+.block_struct2 .sub_struct1 {
+	width: 565px;
+	height: 353px;
+	background: url('images/struct/struct_3.png');
+	margin-right: 80px;
+}
+
+.block_struct2 .sub_struct2 .h2_struct{
+	width: 600px;
+	margin-bottom: 51px;
+}
+
+.block_struct2 .sub_struct2 {
+	width: 675px;
+}
+
+.block_struct3  {
+	width: 100%;
+	height: 315px;
+	margin-top: 68px;
+}
+
+.block_struct3 .sub_struct1 {
+	width: 703px;
+	height: 315px;
+}
+
+.block_struct3 .sub_struct2 {
+	width: 569px;
+	height: 315;
+	background: url('images/struct/struct_4.png');
+}
+
+.block_struct4 {
+	width: 100%;
+	height: 100%;
+	justify-content: normal;
+	margin-top: 150px;
+}
+
+
+
+.block_struct4 .sub_struct1 .img_block1 {
+	width: 703px;
+	height: 311px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.block_struct4 .sub_struct1 .img_block2 {
+	width: 703px;
+	height: 240px;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 34px;
+}
+
+.block_struct4 .sub_struct2 {
+	width: 440px;
+	height: 447px;
+	margin-left: 75px;
+	margin-top: 87px;
+}
+
+.block_struct4 .img_block1 .sub_img_block1 {
+	width: 451px;
+	height: 311px;
+	background: url('images/struct/struct_7.png');
+}
+
+.block_struct4 .img_block1 .sub_img_block2 {
+	width: 216px;
+	height: 311px;
+	background: url('images/struct/struct_6.png');
+}
+
+.block_struct4 .img_block2 .sub_img_block1 {
+	width: 331px;
+	height: 240px;
+	background: url('images/struct/struct_5.png');
+}
+
+.block_struct4 .img_block2 .sub_img_block2 {
+	width: 339px;
+	height: 233px;
+	background: url('images/struct/struct_8.png');
+}
+
+.block_struct4 .sub_struct2 p {
+	width: 440px;
+	height: 338px;
+	font-size: 18px;
+	margin-top: 51px;
+}
+
+.block_struct5 {
+	width: 100%;
+	height: 529px;
+	margin-top: 33px;
+}
+
+.block_struct5 .sub_struct1 {
+	width: 653px;
+	height: 360px;
+}
+
+.block_struct5 .sub_struct2 {
+	width: 543px;
+	height: 529px;
+}
+
+.block_struct5 .img_block1 {
+	width: 543px;
+	height: 259px;
+	background: url('images/struct/struct_9.png');
+}
+
+.block_struct5 .img_block2 {
+	width: 543px;
+	height: 240px;
+	background: url('images/struct/struct_10.png');
+	margin-top: 30px;
+}
+
+.block_struct5 .h2_struct {
+	margin: 102px 0 58px 0;
+	width:488px;
+}
+
+.block_struct5 .sub_struct1 p {
+	width: 653px;
+	font-size: 18px;
+}
+
+.block_struct6 {
+	width: 100%;
+	height: 354px;
+	margin-top: 41px;
+	justify-content: normal;
+}
+
+.block_struct6 .img_block1 {
+	width: 352px;
+	height: 246px;
+	background: url('images/struct/struct_11.png');
+}
+
+.block_struct6 .img_block2 {
+	width: 185px;
+	height: 246px;
+	background: url('images/struct/struct_12.png');
+}
+
+.block_struct6 .sub_struct1 {
+	width: 581px;
+	height: 246px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.block_struct6 .sub_struct2 {
+	margin-left: 83px;
+}
+
+.block_struct6 .sub_struct2 p {
+	width:653px;
+	font-size: 18px;
+}
+
+.block_struct6 .sub_struct2 h2 {
+	width: 443px;
+}
+
+@media all and (min-width: 320px) and (max-width: 480px) {
+
+	.container_highbar {
+		height: 180px;
+	}
+
+	.container_structura {
+		margin: 29px 10px;
+	}
+
+	p {
+		font-size: 14px;
+		width: 90%;
+	}
+
+	h2 {
+		width: 100% !important;
+	}
+
+	.blocks_struct {
+		display: inline-block;
+	}
+
+	.block_struct1 .sub_struct1 {
+		width: 100%;
+		height: 100%;
+	}
+
+	.block_struct1 .sub_struct2 {
+		width: 90%;
+		height: 100%;
+		margin-top: 130px;
+	}
+
+	.block_struct1 .sub_struct1 ul {
+		height: 100%;
+	}
+
+	.block_struct1 .img_block1 {
+		width: 100%;
+	}
+
+	.block_struct1 .img_block2 {
+		width: 100%;
+	}
+
+	.block_struct2 {
+		margin-top: 150px;
+		height: 100%;
+		width: 100%;
+	}
+
+	.block_struct2 .sub_struct1 {
+		width: 100%;
+	}
+
+	.block_struct2 .sub_struct2 {
+		width: 100%;
+		height: 100%;
+	}
+
+	.block_struct2 .sub_struct2 h2 {
+		margin-top: 20px;
+	}
+
+	.block_struct3 {
+		height: 100%;
+		width: 100%;
+		margin-top: 270px;
+		margin-bottom: 100px;
+	}
+
+	.block_struct3 .sub_struct1 {
+		width: 100%;
+		height: 70%;
+		margin-top: 50px;
+	}
+
+	.block_struct3 .sub_struct2 {
+		width: 100%;
+	}
+
+	.block_struct4 {
+		height: 1200px;
+		width: 100%;
+		display: inline-block;
+	}
+
+
+	.block_struct4 .sub_struct1 {
+		width: 320px;
+		height: 100%;
+		display: inline-block;
+	}
+
+	.block_struct4 .sub_struct2 {
+		width: 320px;
+		margin-left: 10px;
+		display: inline-block;
+	}
+
+	.block_struct4 .sub_struct1 .img_block1 {
+		display: inline-block;
+		width: 320px;
+		height: 600px;
+	}
+
+	.block_struct4 .sub_struct1 .img_block2 {
+		display: inline-block;
+		width: 320px;
+		height: 600px;
+	}
+
+	.block_struct4 .sub_struct1 .img_block1 .sub_img_block1 {
+		width: 320px;
+		height: 320px;
+		background-repeat: no-repeat;
+	}
+
+	.block_struct4 .sub_struct1 .img_block1 .sub_img_block2 {
+		width: 320px;
+		height: 320px;
+		background-repeat: no-repeat;
+	}
+
+	.block_struct4 .sub_struct1 .img_block2 .sub_img_block1  {
+		width: 320px;
+		height: 320px;
+		background-repeat: no-repeat;
+	}
+
+	.block_struct4 .sub_struct1 .img_block2 .sub_img_block2 {
+		width: 320px;
+		height: 320px;
+		background-repeat: no-repeat;
+	}
+
+	.block_struct4 .sub_struct2 p {
+		width: 100%;
+	}
+
+	.block_struct5 {
+		height: 100%;
+		display: inline-block;
+		margin-top: 800px;
+		margin-bottom: 600px;
+	}
+
+	.block_struct5 .sub_struct1 {
+		width: 100%;
+		height: 100%;
+		display: inline-block;
+	}
+
+	.block_struct5 .sub_struct2 .img_block1 {
+		width: 100%;
+	}
+
+	.block_struct5 .sub_struct2 .img_block2 {
+		width: 100%;
+	}
+
+	.block_struct5 .sub_struct1 p {
+		width: 100%;
+	}
+
+	.block_struct5 .sub_struct2 {
+		width: 100%;
+		height: 100%;
+		display: inline-block;
+	}
+
+	.block_struct5 .h2_struct {
+		margin: 0;
+		width: 100%;
+	}
+
+	.block_struct6 {
+		height: 100%;
+		display: inline-block;
+	}
+
+	.block_struct6 .sub_struct1 {
+		width: 100%;
+		display: inline-block;
+	}
+
+	.block_struct6 .img_block1 {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+
+	.block_struct6 .img_block2 {
+		width: 100%;
+		background-repeat: no-repeat;
+	}
+
+	.block_struct6 .sub_struct2 {
+		width: 100%;
+		display: inline-block;
+		margin-left: 10px;
+	}
+
+	.block_struct6 .sub_struct2 p {
+		width: 100% !important;
+	}
+
+	.block_struct6 .sub_struct2 h2 {
+		width: 100% !important;
+		margin-top: 400px;
+	}
+
+	footer {
+		height: 150px;
+		margin-top: 600px;
+		font-size: 15px;
+	}
+
+	.sub_footer p {
+		font-size: 12px;
+	}
+
+	.block_footer {
+		width: 100%;
+		height: 150px;
+	}
+
+}
